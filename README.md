@@ -67,7 +67,7 @@ If you find this work useful in your research, please consider citing:
 
 The [ESD corpus](https://github.com/HLTSingapore/Emotional-Speech-Data) is released by the [HLT lab](https://www.eng.nus.edu.sg/ece/hlt/), NUS, Singapore.<br>
 
-The strength scores for the english samples of ESD corpus are available at [here](https://github.com/ttslr/StrengthNet/blob/main/Score_List.csv).
+The strength scores for the English samples of the ESD corpus are available [here](https://github.com/ttslr/StrengthNet/blob/main/Score_List.csv).
 
 <br>
 
