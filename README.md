@@ -1,7 +1,7 @@
 # StrengthNet
-Implementation of  "StrengthNet: Deep Learning-based Emotion Strength Assessment for Emotional Speech Synthesis"
+Implementation of  "Accurate Emotion Strength Assessment for Seen and Unseen Speech Based on Data-Driven Deep Learning"
 
-https://arxiv.org/abs/2110.03156
+https://arxiv.org/abs/2206.07229
 
 
 ## Dependency
