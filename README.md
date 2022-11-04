@@ -51,13 +51,13 @@ By default, the `output/strengthnet.h5` pretrained model is used.
 
 If you find this work useful in your research, please consider citing:
 ```
-@misc{liu2021strengthnet,
-      title={StrengthNet: Deep Learning-based Emotion Strength Assessment for Emotional Speech Synthesis}, 
-      author={Rui Liu and Berrak Sisman and Haizhou Li},
-      year={2021},
-      eprint={2110.03156},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD}
+@inproceedings{liu22i_interspeech,
+  author={Rui Liu and Berrak Sisman and Björn Schuller and Guanglai Gao and Haizhou Li},
+  title={{Accurate Emotion Strength Assessment for Seen and Unseen Speech Based on Data-Driven Deep Learning}},
+  year=2022,
+  booktitle={Proc. Interspeech 2022},
+  pages={5493--5497},
+  doi={10.21437/Interspeech.2022-534}
 }
 ```
  
