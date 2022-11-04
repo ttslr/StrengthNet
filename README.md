@@ -1,5 +1,5 @@
 # StrengthNet
-Implementation of  "Accurate Emotion Strength Assessment for Seen and Unseen Speech Based on Data-Driven Deep Learning"
+Implementation of  "Accurate Emotion Strength Assessment for Seen and Unseen Speech Based on Data-Driven Deep Learning". INTERSPEECH'2022
 
 https://arxiv.org/abs/2206.07229
 
